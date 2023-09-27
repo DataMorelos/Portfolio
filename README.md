@@ -12,6 +12,8 @@ In this portfolio, I showcase my expertise in data science, revealing how I turn
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
 
+***
+
 # Python
 | Project Link | Area | Project Description | Libraries |    
 |---|---|---|---|
