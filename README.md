@@ -7,6 +7,7 @@ In this portfolio, I showcase my expertise in data science, revealing how I turn
 ## Table of Contents
 - [SQL](#sql)
 - [Python](#python)
+- [Data Engineering](#data-engineering)
 
 # SQL
 | Project Link | Area of Analysis | Project Description | 
@@ -17,3 +18,7 @@ In this portfolio, I showcase my expertise in data science, revealing how I turn
 # Python
 | Project Link | Area | Project Description | Libraries |    
 |---|---|---|---|
+
+# Data Engineering
+| Project Link | Tools | Project Description | 
+|---|---|---|
