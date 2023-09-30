@@ -19,6 +19,10 @@ In this portfolio, I showcase my expertise in data science, revealing how I turn
 | Project Link | Area | Project Description | Libraries |    
 |---|---|---|---|
 
+***
+
 # Data Engineering
 | Project Link | Tools | Project Description | 
 |---|---|---|
+
+***
