@@ -24,5 +24,5 @@ In this portfolio, I showcase my expertise in data science, revealing how I turn
 # Data Engineering
 | Project Link | Tools | Project Description | 
 |---|---|---|
-
+| The Lost Donkeys | Jupyter Notebook | Web scrapred the Lost Donkeys listed prices (and possibly store it to MySQL database) on Jupyter Notebook.
 ***
